@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maréu</string>
+    <string name="meeting_img">meeting_img</string>
+    <string name="delete_btn">delete_btn</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_filter">Trier par date</string>
+</resources>

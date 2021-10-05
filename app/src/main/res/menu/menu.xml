@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_menu">
+
+    <item android:title="@string/menu_filter"
+        android:id="@+id/filter_date"/>
+    <item android:title="@string/menu_reset"
+        android:id="@+id/filter_reset"
+        />
+</menu>
